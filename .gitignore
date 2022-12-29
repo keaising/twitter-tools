@@ -1,5 +1,7 @@
 # Python related
 *.pyc
+venv
+__pycache__
 
 # IDEA related
 *.iml
